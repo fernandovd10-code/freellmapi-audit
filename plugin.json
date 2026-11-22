@@ -1,0 +1,19 @@
+{
+  "name": "freellmapi-audit",
+  "displayName": "FreeLLMAPI Audit",
+  "description": "On-demand cross-platform audit for any FreeLLMAPI instance: detects new/retired models with machine-local diff, monitors VIP chains, and checks all multimodal endpoints.",
+  "author": {
+    "name": "Fernando Vázquez Díaz",
+    "url": "https://github.com/fernandovd10-code"
+  },
+  "homepage": "https://github.com/fernandovd10-code/freellmapi-audit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fernandovd10-code/freellmapi-audit.git"
+  },
+  "suggestedPrompts": [
+    "Audita mi FreeLLMAPI hoy y muéstrame qué modelos nuevos entraron o cayeron",
+    "Ejecuta un barrido completo de modelos en mi FreeLLMAPI y sugiere cadenas curadas",
+    "Verifica la salud de todos los módulos de mi FreeLLMAPI (chat, embeddings, decisions, search, audio, imagen, video y fusión)"
+  ]
+}
